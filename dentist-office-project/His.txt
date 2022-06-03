@@ -1,0 +1,11 @@
+-----------------------------------------------------
+Patient Name is : patient:hamza
+Patient ID is : 1
+Patient Phone number Is : 432
+Patient E-Mail Is : dsfdsf
+Patient visit description : asddsda
+Patient visit cost is : 50.00
+Patient visit description : awqedasdda
+Patient visit cost is : 60.00
+Patient total owd is : 110.0
+-----------------------------------------------------
